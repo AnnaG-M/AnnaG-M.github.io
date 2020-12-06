@@ -1,0 +1,26 @@
+ <style>
+        body {
+            background-color:black;
+			color:white;
+                    }
+        h1 {
+           font-size:20px;
+        }
+		p{
+			font-size:12px;
+		}
+		.div{
+			
+    width: 100px;
+    height: 100px;
+    border: dotted 2px;
+    
+         }
+			ol {
+  list-style-type:upper-alpha;
+}
+   
+        ul {
+  list-style-type:square;
+}
+        </style>
