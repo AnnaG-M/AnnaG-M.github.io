@@ -22,5 +22,7 @@
   list-style-type:upper-alpha;
 }
    
-   ul.c {list-style-type: square;}
+   ul.c {
+	   list-style-type: square;
+}
         </style>
