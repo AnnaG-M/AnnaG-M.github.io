@@ -1,26 +1,27 @@
- <style>
-        body {
-            background-color:black;
-			color:white;
-                    }
+     <style>
+        
+body {
+  background-color: black;
+	color: white;
+}
         h1 {
            font-size:20px;
+           color:green;
         }
 		p{
 			font-size:12px;
-			color:green;
 		}
 		.class{
 			
-    border: dotted 2px;
-	width: 100px;
+    width: 100px;
     height: 100px;
+    border: dotted 2px;
     
-          }
-		  
+         }
 			ol {
   list-style-type:upper-alpha;
 }
-   
-   ul {list-style-type: square;}
-        </style>
+ ul {list-style-type: square;}
+        
+
+</style>
